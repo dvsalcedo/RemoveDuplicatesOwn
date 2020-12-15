@@ -18,7 +18,7 @@ namespace RemoveDuplicatesOwn1
 
             linklist.print();
             linklist = RemoveDuplicates(linklist);
-            System.Console.WriteLine("Result");
+            System.Console.WriteLine("Results:");
             linklist.print();
         }
 
